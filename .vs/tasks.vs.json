@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-FaceRecognitionGUI2015",
+      "appliesTo": "source/FaceRecognitionGUI/FaceRecognitionGUI2015.sln",
+      "type": "launch"
+    }
+  ]
+}
