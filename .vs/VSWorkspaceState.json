@@ -5,11 +5,12 @@
     "\\implementatieplannen\\working",
     "\\source",
     "\\source\\ExternalDLL",
+    "\\source\\ExternalDLL\\ExternalDLL",
     "\\source\\FaceRecognitionGUI",
     "\\testsets",
     "\\testsets\\Set A",
     "\\testsets\\Set A\\TestSet Images"
   ],
-  "SelectedNode": "\\source\\ExternalDLL\\ExternalDLL2017.sln",
+  "SelectedNode": "\\source\\FaceRecognitionGUI\\FaceRecognitionGUI.sln",
   "PreviewInSolutionExplorer": false
 }
