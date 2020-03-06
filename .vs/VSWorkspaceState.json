@@ -7,10 +7,11 @@
     "\\source\\ExternalDLL",
     "\\source\\ExternalDLL\\ExternalDLL",
     "\\source\\FaceRecognitionGUI",
+    "\\source\\FaceRecognitionGUI\\FaceRecognitionGUI",
     "\\testsets",
     "\\testsets\\Set A",
     "\\testsets\\Set A\\TestSet Images"
   ],
-  "SelectedNode": "\\source\\ExternalDLL\\ExternalDLL\\StudentPreProcessing.cpp",
+  "SelectedNode": "\\source\\ExternalDLL\\ExternalDLL2017.sln",
   "PreviewInSolutionExplorer": false
 }
