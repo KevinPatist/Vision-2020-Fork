@@ -60,7 +60,7 @@ IntensityImage* StudentPreProcessing::stepEdgeDetection(const IntensityImage& im
 IntensityImage* StudentPreProcessing::stepThresholding(const IntensityImage& image) const {
 	cv::Mat OverHillOverDale;
 	HereBeDragons::HerLoveForWhoseDearLoveIRiseAndFall(image, OverHillOverDale);
-	cv::threshold(OverHillOverDale, OverHillOverDale, 100, 255, cv::THRESH_BINARY_INV);
+	cv::threshold(OverHillOverDale, OverHillOverDale, 98, 255, cv::THRESH_BINARY_INV);
 	IntensityImage* ThoroughBushThoroughBrier = ImageFactory::newIntensityImage();
 	HereBeDragons::NoWantOfConscienceHoldItThatICall(OverHillOverDale, *ThoroughBushThoroughBrier);
 	return ThoroughBushThoroughBrier;

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestSetFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name Name="Harry" ImagePath="TestSet Images\Harry.png">
+    <Parameters>
+      <double>1.444375918903118</double>
+      <double>0.60981706558259363</double>
+      <double>0.71500212347578251</double>
+      <double>0</double>
+      <double>2.777264438236247</double>
+      <double>0.84159500750053817</double>
+      <double>0.48222648457376865</double>
+      <double>1.7544976295698578</double>
+      <double>0.45763378777228486</double>
+      <double>0.12272027832062492</double>
+      <double>1.3102582761922363</double>
+      <double>0.25285686031779975</double>
+      <double>0.1172110968096607</double>
+      <double>0.91947949206472723</double>
+      <double>1.4687428099004802</double>
+      <double>5.1818181818181861</double>
+    </Parameters>
+  </name>
+</TestSetFile>
